@@ -30,3 +30,7 @@
 ## 사이드바 개발
 
 - sidebar.md
+
+## Footer
+
+- footer.md 추가
