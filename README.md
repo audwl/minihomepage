@@ -26,3 +26,7 @@
 ## 장바구니 페이지
 
 - cart.md
+
+## Footer
+
+- footer.md 추가
